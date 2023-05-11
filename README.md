@@ -6,7 +6,7 @@
     <li>Python Imaging Library (PIL)</li>
     <li>os module</li>
 </ul>
-<h3>Possible Future Improvements:</h3>
+<h3>Future Improvements</h3>
 <ul>
     <li>Add more advanced image processing features, such as object detection and segmentation.</li>
     <li>Create a graphical user interface (GUI) to make the app more user-friendly.</li>
