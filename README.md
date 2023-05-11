@@ -1,6 +1,6 @@
 <h3>Image Editor</h3>
 <p>This is a Python-based app that performs basic image editing tasks, such as sharpening, adjusting contrast, and colorizing images. The app uses the Python Imaging Library (PIL) and the os module to open, manipulate, and save image files in various formats.</p>
-<h3>Technologies/Libraries Used:</h3>
+<h3>Technologies/Libraries Used</h3>
 <ul>
     <li>Python</li>
     <li>Python Imaging Library (PIL)</li>
