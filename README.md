@@ -13,4 +13,3 @@
     <li>Optimize the code to improve the speed and performance of the app.</li>
     <li>Include more image file formats and expand the functionality of the app to handle video files as well.</li>
 </ul>
-<p>tags: Python, Image Editing, PIL, os module</p>
